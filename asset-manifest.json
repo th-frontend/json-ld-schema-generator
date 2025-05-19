@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/json-ld-schema-generator/static/js/main.6c25dcae.js",
+    "index.html": "/json-ld-schema-generator/index.html",
+    "main.6c25dcae.js.map": "/json-ld-schema-generator/static/js/main.6c25dcae.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6c25dcae.js"
+  ]
+}
